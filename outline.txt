@@ -1,0 +1,33 @@
+Slide 1:
+
+Prog. switching today
+Pipeline: match + action, local memories
+
+Slide 2:
+
+A few problems with this.
+Match + action coupled.
+Couples memory consumption with compute.
+
+Slide 3:
+
+dRMT: a disaggregated version of RMT.
+Retain RMT's instruction set, but disaggregate.
+
+Slide 4: Memory disagg
+
+Slide 5: Compute disagg
+
+Slide 6: What benefits does this bring us?
+
+Use motivating example from Section 2 on compute disagg
+
+Slide 7: Benefit for memory disagg
+
+Slide 8: Compiling to dRMT
+
+Given P4 DAG, when you do schedule operations in dRMT?
+
+Slide 9: Cyclic scheduling problem, ILP formulation
+
+Slide 10: Future work: Stateful operations, 400G NIC implementation.
