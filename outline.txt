@@ -31,3 +31,8 @@ Given P4 DAG, when you do schedule operations in dRMT?
 Slide 9: Cyclic scheduling problem, ILP formulation
 
 Slide 10: Future work: Stateful operations, 400G NIC implementation.
+
+Other things that are potentially of interest:
+
+Crossbar place and route estimates,
+three types of crossbars
